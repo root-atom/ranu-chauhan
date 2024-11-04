@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ranu-chauhan/static/css/main.85a23615.css",
+    "main.js": "/ranu-chauhan/static/js/main.2a05238b.js",
+    "static/media/HeroImage.jpg": "/ranu-chauhan/static/media/HeroImage.5f5032ef09d3e250da23.jpg",
+    "index.html": "/ranu-chauhan/index.html",
+    "main.85a23615.css.map": "/ranu-chauhan/static/css/main.85a23615.css.map",
+    "main.2a05238b.js.map": "/ranu-chauhan/static/js/main.2a05238b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a23615.css",
+    "static/js/main.2a05238b.js"
+  ]
+}
